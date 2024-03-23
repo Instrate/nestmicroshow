@@ -2,7 +2,12 @@
 
 ## Summary
 1. [Introduction](#introduction)
-2. [Requirements](#running-projects)
+2. [Running projects](#running-projects)
+    * [Docker approach](#docker-appoach)
+    * [Native approach](#native-approach)  
+3. [Services](#services)
+    * [Description table](#services-description-table)
+    * [Dependency graph](#services-dependency-graph)
 
 ---
 ## Introduction
@@ -49,7 +54,7 @@ All of the contained projects are build with the next dependencies:
 > Every project contains its own description of how to run it
 
 ---
-## Services graph
+## Services
 
 Each service has its own purpose. Services expanations are down below
 
