@@ -2,7 +2,7 @@
 
 ## Summary
 1. [Introduction](#introduction)
-2. [Requirements](#requirements)
+2. [Requirements](#running-projects)
 
 ---
 ## Introduction
@@ -57,8 +57,8 @@ Each service has its own purpose. Services expanations are down below
 
 | Name | Description |
 | :-: | - |
-| [Hub]() | Main service that contains general controllers`<br/> definitions
-| [Lib]() | Helper poject that contains general definitions<br/>that are used in almost every other project
+| [Hub project]() | Main service that contains general controllers`<br/> definitions
+| [Utilities library]() | Helper poject that contains general definitions<br/>that are used in almost every other project
 
 ### Services dependency graph
 
