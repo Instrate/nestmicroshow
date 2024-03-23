@@ -64,23 +64,17 @@ Each service has its own purpose. Services expanations are down below
 
 ### Services description table
 
-
 | Name | Description
 | :- | - |
 | [Hub project](https://github.com/Instrate/MS-SC-Hub) | Main service that contains general controllers`<br/> definitions |
 | [Utilities library](https://github.com/Instrate/MS-SC-Lib) | Helper poject that contains general definitions<br/>that are used in almost every other project |
 
-
 ---
-<p align="center">
 
 | Services dependency graph |
 |:-:|
 |![diagram](./services.drawio.png)|
 
-</p>
-
---- 
-
+---
 
 <h3 align="center">END</h3>
