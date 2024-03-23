@@ -72,13 +72,13 @@ Each service has its own purpose. Services expanations are down below
 
 
 ---
-<center>
+<p align="center">
 
 | Services dependency graph |
 |:-:|
 |![diagram](./services.drawio.png)|
 
-</center>
+</p>
 
 --- 
 
