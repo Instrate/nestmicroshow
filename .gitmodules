@@ -1,3 +1,6 @@
 [submodule "MS-SC-Hub"]
 	path = MS-SC-Hub
 	url = git@github.com:Instrate/MS-SC-Hub.git
+[submodule "MS-SC-Lib"]
+	path = MS-SC-Lib
+	url = git@github.com:Instrate/MS-SC-Lib.git
