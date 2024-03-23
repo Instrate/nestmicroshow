@@ -1,22 +1,25 @@
 # NestJS Microservices Showcase
 
 ## Summary
+
 1. [Introduction](#introduction)
 2. [Running projects](#running-projects)
     * [Docker approach](#docker-appoach)
     * [Native approach](#native-approach)  
 3. [Services](#services)
     * [Description table](#services-description-table)
-    * [Dependency graph](#services-dependency-graph)
 
 ---
+
 ## Introduction
-#### This repo contains examples of such microservices connection types as:
+
+This repo contains examples of such microservices connection types as:
 
 * Kafka - [ ]
 * RabbitMQ - [ ]
 
 ---
+
 ## Running projects
 
 ### **Docker** appoach
@@ -54,17 +57,26 @@ All of the contained projects are build with the next dependencies:
 > Every project contains its own description of how to run it
 
 ---
+
 ## Services
 
 Each service has its own purpose. Services expanations are down below
 
 ### Services description table
 
-| Name | Description |
-| :-: | - |
-| [Hub project]() | Main service that contains general controllers`<br/> definitions
-| [Utilities library]() | Helper poject that contains general definitions<br/>that are used in almost every other project
+| Name | Description
+| :- | - |
+| [Hub project](https://github.com/Instrate/MS-SC-Hub) | Main service that contains general controllers`<br/> definitions |
+| [Utilities library](https://github.com/Instrate/MS-SC-Lib) | Helper poject that contains general definitions<br/>that are used in almost every other project |
 
-### Services dependency graph
+---
 
-![diagram](./services.drawio.png)
+| Services dependency graph |
+|:-:|
+|![diagram](./services.drawio.png)|
+
+
+--- 
+
+
+<h3 align="center">END</h3>
